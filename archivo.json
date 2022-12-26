@@ -1,0 +1,95 @@
+[{
+    "id":"1",
+    "nombre":"Sensor Ultrasonido",
+    "Marca":"SU Electronics",
+    "descripcion":"Sensor de distancia con rango de 6 metros",
+    "img": "img/Sensorultra.jpg",
+    "cantidad":50,
+    "precio":1200
+    },{
+    
+    "id":"2",
+    "nombre":"Puente H",
+    "Marca":"PH Electronics",
+    "descripcion":"Circuito de 12V 1 A",
+    "img":"img/PuenteH.jpg",
+    "cantidad":100,
+    "precio":2500
+    },{
+    
+    "id":"3",
+    "nombre":"Resistencias",
+    "Marca":"R Electronics",
+    "descripcion":"Resistencia de ceramica a 1/4 Watt",
+    "img":"img/Resistencia.jpg",
+    "cantidad":60,
+    "precio":50
+    },{
+    "id":"4",
+    "nombre":"Condensador ",
+    "Marca":"C Electronics",
+    "descripcion":"Condensador Electrolitico 16 V",
+    "img":"img/Condensador.jpg",
+    "cantidad":80,
+    "precio":100
+    },{
+    
+    "id":"5",
+    "nombre":"Motorreductor",
+    "Marca":"H Machine",
+    "descripcion":"Motorreductor 200 RPM 4 KG Torque",
+    "img":"img/Motorreductor.jpg",
+    "cantidad":60,
+    "precio":4500
+    },{
+    "id":"6",
+    "nombre":"Sensor Infrarrojo",
+    "Marca":"SI Electronics",
+    "descripcion":"Sensor con distancia de 1,5 metros",
+    "img":"img/SensorInfrarrojo.jpg",
+    "cantidad":180,
+    "precio":2000
+    },{
+    "id":"7",
+    "nombre":"Shield Arduino",
+    "Marca":"SA Electronics",
+    "descripcion":"Tarjeta para utilizar con arduino",
+    "img":"img/Shield.jpg",
+    "cantidad": 80,
+    "precio":6000
+    },{
+    "id":"8",
+    "nombre":"Cables",
+    "Marca":"Cobre",
+    "descripcion":"Cables conexión placas arduino",
+    "img":"img/Cables.jpg",
+    "cantidad":70,
+    "precio":1500
+    },{
+    
+    "id":"9",
+    "nombre":"Conectores",
+    "Marca":"Conect",
+    "descripcion":"Conectores para circuitos impresos",
+    "img":"img/Conectores.jpg",
+    "cantidad":78,
+    "precio":900
+    },{
+    
+    "id":"10",
+    "nombre":"Baterias",
+    "Marca":"S Power",
+    "descripcion":"Baterias recargables diferentes voltajes",
+    "img":"img/Baterias.jpg",
+    "cantidad":30,
+    "precio":7000
+
+    },{ 
+    "id":"11",
+    "nombre":"Manzana",
+    "Marca":"peluches manzana",
+    "descripcion":"peluche de manzana que grita manzana",
+    "img":"img/manzana.jpg",
+    "cantidad":30,
+    "precio":1000}
+    ]
